@@ -1,0 +1,13 @@
+1. A group of 5 children and 7 adults are going to a movie. Child tickets cost $5, and adult tickets cost $7. How much will the movie tickets cost in all?
+
+2. Allan is taller than Claire, but shorter than both Kishan and Mike. Kishan is shorter than Mike. Mercedes is shorter than Claire. Who is the shortest?
+
+3. Of the 80 houses in a development, 50 have a two-car garage, 40 have an in-the-ground swimming pool, and 35 have both a two-car garage and an in-the-ground swimming pool. How many houses in the development have neither a two-car garage nor an in-the-ground swimming pool?
+
+4. Your dinner bill is $25 before tax. The tax rate is 8%. You decide to give the waiter 10% tip based on your pre-tax bill. What is the TOTAL amount of cash you should pay?
+
+5. How many square feet are there in 288 square inches? Note that 1 foot = 12 inches.
+
+6. A car drives 40 miles on local roads at 20 mph, and 180 miles on the highway at 60 mph, what is the average speed of the entire trip?
+
+7. There are 17 students in a class. On the day the test was given, John was absent. The other 16 students took the test, and their average score was 77. The next day, John took the test, and with his grade included, the new average is 78. What is John's grade on the test?
