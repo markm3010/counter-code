@@ -7,7 +7,7 @@ def selfish_meter(file_in):
     fh.close()
     # print(data)
 
-    searcher = re.compile(r'\bgI\b|\bI\'ve\b|\bI\'[md]\b|\bmy\b|\bmine\b')
+    searcher = re.compile(r'\bI\b|\bI\'ve\b|\bI\'[md]\b|\bmy\b|\bmine\b')
     matches = searcher.finditer(data)
     i = 0
     print('\nSelfish words found:')
