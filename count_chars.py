@@ -1,9 +1,11 @@
 import re
 
 '''
-Take a filename from count_the_chars(), open
-file, read file, and create a regular expression.
-Then use finditer() to read the data into "m".  
+You have a file that you want to get the character
+count for. Send the filename to count_the_chars(), 
+open file, read file, and create a regular
+expression, then use finditer() to read the data 
+into "m".  
 
 After that, print each character found (including 
 spaces, backslashes, dots and newline characters).
