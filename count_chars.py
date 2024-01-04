@@ -38,4 +38,4 @@ def count_the_chars():
 
 
 if __name__ == '__main__':
-    count_the_chars()
+    count_the_chars("C:/temp/thisfile.txt")
